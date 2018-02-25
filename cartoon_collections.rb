@@ -25,7 +25,7 @@ def find_the_cheese(foods)
   
   
   cheese_types = ["cheddar", "gouda", "camembert"]
-  if foods.each {|i| }
+  if foods.find {|food| }
 
 
 end
