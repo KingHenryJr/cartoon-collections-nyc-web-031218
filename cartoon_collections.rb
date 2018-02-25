@@ -16,9 +16,8 @@ def long_planeteer_calls(calls)
     call.each do |call| 
       if call.length > 4
       answer = true
-  
-end
-end
+    end
+  end
 
 def find_the_cheese
   cheese_types = ["cheddar", "gouda", "camembert"]
