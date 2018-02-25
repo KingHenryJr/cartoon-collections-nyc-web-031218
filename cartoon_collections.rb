@@ -15,8 +15,8 @@ def long_planeteer_calls(calls)
   answer = false 
     call.each do |call| 
       if call.length > 4
+      answer = true
   
-  if calls.any? {|i| i.length > 4}
 end
 end
 
